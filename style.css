@@ -3,7 +3,13 @@
     padding: 0;
     text-align: center;
   }
-  
+  body {
+  background-image: url("https://wallpapers.com/images/hd/almost-black-with-navy-blue-background-aagwaqhmx0ggj2ny.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  }
   h1 {
     background-color: #524560;
     color: #fff;
