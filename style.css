@@ -59,7 +59,7 @@
   
   #user-score,
   #comp-score {
-    font-size: 4rem;
+    color:#fff;
   }
   
   .msg-container {
@@ -67,7 +67,7 @@
   }
   
   #msg {
-    background-color: #081b31;
+    background-color: #31649f;
     color: #fff;
     font-size: 2rem;
     display: inline;
